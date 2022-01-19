@@ -1,0 +1,13 @@
+lockfileVersion: 5.3
+
+specifiers:
+  '@datastructures-js/queue': ^4.1.3
+
+dependencies:
+  '@datastructures-js/queue': 4.1.3
+
+packages:
+
+  /@datastructures-js/queue/4.1.3:
+    resolution: {integrity: sha512-vvtwLDJ+R53i+vXr7llIXm2cLI0LzaN9edeJ7sEzti4TQUj/3Bpgp1mJKhWA8CWpW09sysvASab0kPP2cEbjNg==}
+    dev: false
